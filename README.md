@@ -175,14 +175,8 @@ POST /detect
 -  Host model weights on cloud storage  
 -  Deploy on AWS / Azure / Render  
 
----
 
-##  License
-This project is licensed under the **MIT License**.
-
----
-
-## 👩 Author
+## Author
 
 **Tejasri Javvadi**  
  *[tejasridevi30954@gmail.com]*  
