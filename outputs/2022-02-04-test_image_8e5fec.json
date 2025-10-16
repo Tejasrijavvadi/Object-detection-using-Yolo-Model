@@ -1,0 +1,68 @@
+[
+  {
+    "class_id": 0,
+    "class": "person",
+    "confidence": 0.9176942110061646,
+    "bbox": [
+      80,
+      215,
+      230,
+      493
+    ]
+  },
+  {
+    "class_id": 1,
+    "class": "bicycle",
+    "confidence": 0.9051064252853394,
+    "bbox": [
+      320,
+      10,
+      657,
+      211
+    ]
+  },
+  {
+    "class_id": 0,
+    "class": "person",
+    "confidence": 0.8664507865905762,
+    "bbox": [
+      688,
+      190,
+      777,
+      444
+    ]
+  },
+  {
+    "class_id": 2,
+    "class": "car",
+    "confidence": 0.8621095418930054,
+    "bbox": [
+      161,
+      220,
+      768,
+      495
+    ]
+  },
+  {
+    "class_id": 16,
+    "class": "dog",
+    "confidence": 0.341709166765213,
+    "bbox": [
+      388,
+      260,
+      457,
+      316
+    ]
+  },
+  {
+    "class_id": 16,
+    "class": "dog",
+    "confidence": 0.2737709879875183,
+    "bbox": [
+      388,
+      253,
+      481,
+      317
+    ]
+  }
+]
