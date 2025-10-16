@@ -183,5 +183,3 @@ POST /detect
  [GitHub Profile](https://github.com/Tejasrijavvadi)
 
 ---
-
- *If you find this project useful, please star the repository!*
